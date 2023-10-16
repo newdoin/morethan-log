@@ -2,9 +2,9 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "newdoin",
-    image: "/avatar.svg",
+    image: "/avatar_custom.jpeg",
     role: "frontend developer",
-    bio: "사람들이 찾는 서비스를 만들기",
+    bio: "사람들이 찾는 서비스를 만들고 싶어요",
     email: "ehdls6864@naver.com",
     linkedin: "",
     github: "newdoin",
